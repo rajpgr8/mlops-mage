@@ -19,3 +19,5 @@
    ```
 
 1. Open [`http://localhost:6789`](http://localhost:6789) in your browser.
+![image](https://github.com/rajpgr8/mlops-mage/assets/23621486/7e6cce99-dd66-4569-9b9e-eb8eb01bc7bd)
+
